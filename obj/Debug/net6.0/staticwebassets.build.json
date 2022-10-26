@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "asrZIFIzYrTJuWuyX1oxS+PYgkDMW2dTuKssbOX+6+U=",
+  "Source": "TestPostGis",
+  "BasePath": "_content/TestPostGis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
