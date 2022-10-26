@@ -39,3 +39,7 @@ C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\obj\Debug\net6.
 C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\obj\Debug\net6.0\TestPostGis.pdb
 C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\obj\Debug\net6.0\TestPostGis.genruntimeconfig.cache
 C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\obj\Debug\net6.0\ref\TestPostGis.dll
+C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\bin\Debug\net6.0\NetTopologySuite.Features.dll
+C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\bin\Debug\net6.0\NetTopologySuite.IO.GeoJSON4STJ.dll
+C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Devin\Documents\Visual Studio 2022\Projects\TestPostGis\bin\Debug\net6.0\System.Text.Json.dll
